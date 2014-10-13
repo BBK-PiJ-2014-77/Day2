@@ -1,0 +1,10 @@
+double  pie = 4 / ((2 * 0) + 1);
+println (pie);
+double pie2 = - 4 / ((2 * 1) + 1);
+println (pie2);
+double test = 4 / 3;
+println (test);
+double test2 = 1/2;
+println (test2);
+double test3 = 0.5;
+println (test3);
